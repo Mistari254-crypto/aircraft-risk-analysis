@@ -43,6 +43,8 @@ Evaluated model performance using accuracy scores and classification reports
 4️⃣ Tableau Dashboard
 
 Interactive dashboard showcasing accident trends, high-risk aircraft, and key insights
+View the dashboard (https://public.tableau.com/app/profile/calvin.mutua/viz/AircraftRiskAnalysis_17431520408570/Dashboard1#1)
+
 
 Filters for date, location, aircraft type, and severity
 
